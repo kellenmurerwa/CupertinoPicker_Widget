@@ -30,6 +30,8 @@ class _CupertinoPickerWidgetState extends State<CupertinoPickerWidget> {
     'Orange',
     'Grape',
     'Cherries',
+    '🍉',
+    '🥭🥭'
   ];
 
   @override
